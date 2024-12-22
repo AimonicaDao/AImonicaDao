@@ -2,6 +2,7 @@
 
 AIMonica is powered by ZerePy.
 AIMonica, artist, dual personality, likes memes, manic
+
 <img width="200" alt="1734873221646" src="https://github.com/user-attachments/assets/4b7631e6-780e-4b30-9ccc-249ee5b981b1" />
 
 
